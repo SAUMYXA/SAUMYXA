@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saumya Srivastava</h1>
 <h3 align="center">Powering Your Applications with Efficient and Scalable Node.js Backend Solutions</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/6613e6cdf6314326d2c61930d966830f985e32683f2c9e281b3870866e853ebd/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4e67757259316f347a3038304a666f797a772f67697068792e6769663f6369643d65636630356534376a6f7674367261356b686a31326b63336865657533626e706b6465777a347177327967756870716c267269643d67697068792e6769662663743d73">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyxa&label=Profile%20views&color=0e75b6&style=flat" alt="saumyxa" /> </p>
 
