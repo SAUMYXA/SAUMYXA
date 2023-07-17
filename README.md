@@ -13,6 +13,7 @@ name: Saumya Srivastava
 pronouns: She/Her
 located_in: Ghaziabad, India
 education: B.Tech. 2nd Year Student @AKGEC,Ghaziabad
+email: 'saumya2113061@akgec.ac.in'
 fields_of_interests:
   [
     "Web Development"
