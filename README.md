@@ -102,8 +102,8 @@ hobbies: ["Oratory", "Content Writing"]
   </tr>
 </table>
 <h2> 📍 &nbsp;Visitor's Count:</h2>
-<a align="center" href="https://profile-counter.glitch.me/{saumyxa}/count.svg">
-</a>
+<!--<a align="center" href="https://profile-counter.glitch.me/{saumyxa}/count.svg">
+</a>--!>
   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyxa&label=Profile%20views&color=0e75b6&style=flat" alt="saumyxa" /> </p>
 
