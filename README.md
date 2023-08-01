@@ -97,10 +97,17 @@ hobbies: ["Oratory", "Content Writing"]
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saumyxa&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
    <tr>
-     <!-- <td><img src="https://activity-graph.herokuapp.com/graph?username=saumyxa&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>--!>
+     <!-- <td><img src="https://activity-graph.herokuapp.com/graph?username=saumyxa&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"   display=block width=100% height=auto alt="3" align="center" ></td>--!>
   </td>
   </tr>
 </table>
+<p>
+ <div align=center>
+    
+  </div>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saumyxa&bg_color=242424&color=e1dbe1&line=3eda58&point=ffffff&area=true&hide_border=true)%5D(https://github.com/ashutosh00710/github-readme-activity-graph" width="100%" alt="github activity graph"/>
+</p>
 <h2> 📍 &nbsp;Visitor's Count:</h2>
 <!--<a align="center" href="https://profile-counter.glitch.me/{saumyxa}/count.svg">
 </a>--!>
