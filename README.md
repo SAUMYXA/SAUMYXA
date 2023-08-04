@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey There! 👋 I'm Saumya Srivastava ✨</h1>
 <h3 align="center">Powering Your Applications with Efficient and Scalable Node.js Backend Solutions</h3>
 <br>
@@ -33,7 +32,6 @@ hobbies: ["Oratory", "Content Writing"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 </td><td>
-
 <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />--!>
            <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" />--!>
            <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="45" height="45"/> --!>
@@ -44,8 +42,7 @@ hobbies: ["Oratory", "Content Writing"]
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="45" height="45"/>
-          </td>  
-          
+          </td>            
 <td>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="45" height="45 />
@@ -57,21 +54,15 @@ hobbies: ["Oratory", "Content Writing"]
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
 </td>
    </tr> 
- 
 </table>
-
 </p>
 <h2> 📫 &nbspConnect With Me:</h2>                                                                     
 <p align="left">
 <a href="https://www.linkedin.com/in/saumya-srivastava-828249252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saumya-srivastava-828249252" height="30" width="40" /></a>
 <a href="https://instagram.com/saumyxa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saumyxa" height="30" width="40" /></a>
 
-
 </p>
-
-
 </p>
-
 <hr>
 
 # 📊 Github Activity:
