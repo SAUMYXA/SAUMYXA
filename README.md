@@ -90,8 +90,7 @@ hobbies: ["Oratory", "Content Writing"]
   </tr>
 </table>
 <p>
- <div align=center>
-    
+ <div align=center>  
   </div>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saumyxa&bg_color=242424&color=e1dbe1&line=3eda58&point=ffffff&area=true&hide_border=true)%5D(https://github.com/ashutosh00710/github-readme-activity-graph" width="100%" alt="github activity graph"/>
