@@ -8,7 +8,6 @@
 <h2> 🌈 &nbsp;About Me:</h2>
 
 
-
 ```yaml
 name: Saumya Srivastava
 pronouns: She/Her
