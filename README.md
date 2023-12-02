@@ -98,8 +98,10 @@ hobbies: ["Oratory", "Content Writing"]
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saumyxa&bg_color=242424&color=e1dbe1&line=3eda58&point=ffffff&area=true&hide_border=true)%5D(https://github.com/ashutosh00710/github-readme-activity-graph" width="100%" alt="github activity graph"/>
 </p>
 <h2> 📍 &nbsp;Visitor's Count:</h2>
-<!--<a align="center" href="https://profile-counter.glitch.me/{saumyxa}/count.svg">
-</a>--!>
+<a align="center" href="https://profile-counter.glitch.me/{saumyxa}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{saumyxa}/count.svg)  
+</a>
   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyxa&label=Profile%20views&color=0e75b6&style=flat" alt="saumyxa" /> </p>
 
