@@ -6,8 +6,7 @@
 <p align="center">
 <!--     <img src="https://github.com/Sukriti-m/Sukriti-m/blob/main/gitartwork.svg" /> -->
 </p>   
-<h2> 🌈 &nbsp;About Me:</h2>
-
+<h2> 🌈 &nbsp;About 
 
 ```yaml
 name: Saumya Srivastava
