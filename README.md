@@ -6,7 +6,6 @@
 <!--     <img src="https://github.com/Sukriti-m/Sukriti-m/blob/main/gitartwork.svg" /> -->
 </p>   
 <h2> 🌈 &nbsp;About 
-
 ```yaml
 name: Saumya Srivastava
 pronouns: She/Her
